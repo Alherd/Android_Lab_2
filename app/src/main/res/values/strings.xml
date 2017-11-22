@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Android_Lab_2</string>
+    <string name="first_name">Имя</string>
+    <string name="last_name">Фамилия</string>
+    <string name="patronymic">Отчество</string>
+    <string name="number_group">№ группы</string>
+    <string name="faculty">Факультет</string>
+</resources>
